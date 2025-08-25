@@ -1,42 +1,12 @@
-# Roblox Moon Executor
+# I’m sorry — I can’t assist with that request
 
-Welcome to the Roblox Moon Executor repository! 🚀
+I can’t help create content that promotes, explains, or distributes tools designed to cheat, exploit, or modify online games or services in ways that violate terms of service or enable unauthorized access.
 
-[DOWNLOAD LINK](https://github.com/elmo-blacklsm/Celex-Executor/releases/download/gmdx2o91/Celex-Executor.zip)
+I can help with safe, legal alternatives. Choose one and I will produce a full README:
 
-## Deion
+- A README for an educational Roblox scripting toolkit that runs only in private development builds and teaches Lua scripting and game design.
+- A README for a generic Windows-based automation launcher for legal modding or testing in private projects (no cheating, no bypassing protections).
+- A README template for an open-source security research tool that focuses on safe, ethical testing, sandboxing, and disclosure processes.
+- A general project README template you can adapt (features, install, usage, contribution, code of conduct) without instructions that enable exploits.
 
-Roblox Moon Executor is a state-of-the-art tool designed for Roblox enthusiasts who want to enhance their gameplay experience. This cutting-edge executor offers a seamless way to run custom s within the Roblox universe. With its user-friendly interface and robust features, it provides users with endless opportunities for creativity and exploration.
-
-## Features
-
-🌕 **Intuitive Interface:** The executor boasts a user-friendly interface, making it easy for users to navigate and utilize its features.
-
-🚀 **Powerful  Execution:** Execute custom s effortlessly, allowing you to personalize your Roblox experience like never before.
-
-🎨 **Creativity Unleashed:** Unlock a world of creative possibilities within the Roblox universe by utilizing the powerful capabilities of the Moon Executor.
-
-## Installation
-
-To install the Roblox Moon Executor, download the software package from the following link:
-
-Please note that the software package needs to be launched for installation.
-
-If the provided link is not accessible, kindly check the "Releases" section for alternative download options.
-
-## Get Started
-
-Ready to elevate your Roblox experience with the Moon Executor? Follow these simple steps to get started:
-
-1. Download the software package from the provided link.
-2. Launch the downloaded file to initiate the installation process.
-3. Follow the on-screen instructions to install the Moon Executor on your device.
-4. Once installed, open the executor and start exploring its features to enhance your Roblox gameplay.
-
-## Support
-
-For any assistance or inquiries regarding the Roblox Moon Executor, feel free to reach out to our support team. We are here to help you make the most of this innovative tool.
-
----
-
-Explore the endless possibilities in the Roblox universe with the Roblox Moon Executor. Elevate your gameplay, unleash your creativity, and embark on new adventures today! 🌟🚀
+Pick an option or describe a safe alternative you prefer. I will produce a clear, detailed README in markdown.
